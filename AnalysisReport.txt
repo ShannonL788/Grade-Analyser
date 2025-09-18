@@ -1,0 +1,24 @@
+FINAL RESULTS:
+Average = 58.6%
+Median = 58.0%
+Standard Deviation = 18.25
+Number of Students Scoring Below 40% = 8
+
+LAB EXAM:
+Average = 58.94%
+Median = 56.0%
+Standard Deviation = 28.62
+Number of Students Scoring Below 40% = 14
+
+EXAM RESULTS:
+Average = 55.52%
+Median = 55.5%
+Standard Deviation = 24.45
+Number of Students Scoring Below 40% = 13
+
+LAB RESULTS:
+Average = 64.59%
+Median = 70.36500000000001%
+Standard Deviation = 22.25
+Number of Students Scoring Below 40% = 7
+
