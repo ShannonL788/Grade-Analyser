@@ -17,7 +17,7 @@ The output is printed to the console and to `AnalysisReport.txt`.
 ## CSV input format
 Your CSV must have exactly these headers in this order:
 
-Student,FINAL,Lab Exam,Exam%,Lab%
+Student, FINAL, Lab Exam, Exam%, Lab%
 
 
 
